@@ -1,7 +1,3 @@
-require "rubysl-abbrev/version"
+require 'abbrev'
 
-module RubySL
-  module Abbrev
-    # Your code goes here...
-  end
-end
+# Provided for requiring the library consistently with other gems.
