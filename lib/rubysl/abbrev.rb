@@ -1,3 +1,2 @@
-require 'abbrev'
-
-# Provided for requiring the library consistently with other gems.
+require "rubysl/abbrev/abbrev"
+require "rubysl/abbrev/version"
